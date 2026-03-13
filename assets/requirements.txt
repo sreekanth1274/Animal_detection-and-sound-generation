@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pygame
+twilio
+tensorflow
+python-dotenv

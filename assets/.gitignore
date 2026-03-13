@@ -1,0 +1,4 @@
+.env
+captured_animals/
+__pycache__/
+*.jpg
